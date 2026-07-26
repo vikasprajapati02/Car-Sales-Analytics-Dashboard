@@ -80,49 +80,60 @@ The dashboard enables users to:
 
 ## 🏠 Home Dashboard
 
-<img src="Images/car1.png" width="100%">
+<img src="Images/car%201.png" width="100%">
 
 ---
 
 ## 🚘 Audi Dashboard
 
-<img src="Images/car2.png" width="100%">
+<img src="Images/car%202.png" width="100%">
 
 ---
 
 ## 🚘 BMW Dashboard
 
-<img src="Images/car3.png" width="100%">
+<img src="Images/car%203.png" width="100%">
 
 ---
 
 ## 🚘 Ford Dashboard
 
-<img src="Images/car4.png" width="100%">
+<img src="Images/car%204.png" width="100%">
 
 ---
 
 ## 🚘 Hyundai Dashboard
 
-<img src="Images/car5.png" width="100%">
+<img src="Images/car%205.png" width="100%">
 
 ---
 
 ## 🚘 Skoda Dashboard
 
-<img src="Images/car6.png" width="100%">
+<img src="Images/car%206.png" width="100%">
 
 ---
 
 ## 🚘 Toyota Dashboard
 
-<img src="Images/car7.png" width="100%">
+<img src="Images/car%207.png" width="100%">
 
 ---
 
 ## 🚘 Volkswagen Dashboard
 
-<img src="Images/car8.png" width="100%">
+<img src="Images/car%208.png" width="100%">
+
+---
+
+## 🚘 Data Overview
+
+<img src="Images/car%20data%201.png" width="100%">
+
+---
+## 🚘 Data Relationship
+
+<img src="Images/car%20data%202.png" width="100%">
 
 ---
 
