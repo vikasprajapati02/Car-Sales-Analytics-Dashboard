@@ -1,7 +1,7 @@
 # 🚗 Power BI Car Sales Analytics Dashboard
 
 <p align="center">
-  <img src="Images/car20%1.png" width="100%">
+  <img src="Images/car%201.png" width="100%">
 </p>
 
 <p align="center">
